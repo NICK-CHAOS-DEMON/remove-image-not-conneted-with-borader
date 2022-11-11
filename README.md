@@ -1,1 +1,1 @@
-# remove-image-not-connetted-with-borader
+# remove-image-not-conneted-with-borader
